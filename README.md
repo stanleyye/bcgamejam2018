@@ -1,3 +1,5 @@
 ## A Ninja's Resolution
 
-ZIP file is taking a long time to compress... it will be up in 10 minutes
+ZIP file is too big for github. Here is the google drive link
+
+https://drive.google.com/file/d/1GFEJstvVVxStPAmqpjeW2mKqjSfKCA7h/view
